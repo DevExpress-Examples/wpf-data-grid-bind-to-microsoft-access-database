@@ -8,6 +8,8 @@
 
 This example connects the [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) to the [NorthWind database](./CS/DXGrid_BindingToMSAccessDb/nwind.mdb) and displays data from the **Customers** table.
 
+![image](https://user-images.githubusercontent.com/65009440/210524942-d6a8c7e3-d6e8-4948-9b2c-c9278455bf43.png)
+
 ## Files to Review
 
 * [Window1.xaml](./CS/DXGrid_BindingToMSAccessDb/Window1.xaml) (VB: [Window1.xaml](./VB/DXGrid_BindingToMSAccessDb/Window1.xaml))
