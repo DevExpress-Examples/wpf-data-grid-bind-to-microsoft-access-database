@@ -3,17 +3,21 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1510)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# WPF Data Grid - Bind to Microsoft Access Database
+
+This example connects the [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) to the [NorthWind database](./CS/DXGrid_BindingToMSAccessDb/nwind.mdb) and displays data from the **Customers** table.
+
+## Files to Review
 
 * [Window1.xaml](./CS/DXGrid_BindingToMSAccessDb/Window1.xaml) (VB: [Window1.xaml](./VB/DXGrid_BindingToMSAccessDb/Window1.xaml))
 * [Window1.xaml.cs](./CS/DXGrid_BindingToMSAccessDb/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/DXGrid_BindingToMSAccessDb/Window1.xaml.vb))
-<!-- default file list end -->
-# How to bind to MSAccess database
 
+## Documentation
 
-<p>This example shows how to connect to the NorthWind database and display data from the Customers table.</p>
+* [WPF Data Grid: Bind to Data](https://docs.devexpress.com/WPF/7352/controls-and-libraries/data-grid/bind-to-data)
 
-<br/>
+## More Examples
 
-
+* [Bind the WPF Data Grid to Data](https://github.com/DevExpress-Examples/how-to-bind-wpf-grid-to-data)
+* [WPF Data Grid - Display Data from an XML File](https://github.com/DevExpress-Examples/how-to-display-data-from-an-xml-file-e1506)
